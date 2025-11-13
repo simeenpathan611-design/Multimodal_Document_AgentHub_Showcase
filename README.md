@@ -1,6 +1,9 @@
 # Multimodal_Document_AgentHub_Showcase
 
 > An intelligent AI-powered platform that extracts, understands, and answers questions from **multimodal documents** — including PDFs, PPTs, DOCX, tables, charts, and images — using advanced **LLMs** and **vector embeddings**.
+
+**NOTE**
+The complete codebase is private due to ongoing research and proprietary integrations
  
 ---
  
